@@ -6,6 +6,10 @@ The [Learning Designer](https://www.ucl.ac.uk/learning-designer/) is a tool to h
 
 This Moodle plugin, enables a teacher to import a LDJ file of a previously exported LD instructional design topic or class session schema, directly into the teacher's Moodle course at any course topic (section/week). 
 
+| Learning designer  | to | Moodle course |
+|---|---|---|
+|  ![Learning designer](https://github.com/nadavkav/moodle-local_learningdesigner_import/blob/master/docs/learning-designer.png) | --> | ![Moodle course](https://github.com/nadavkav/moodle-local_learningdesigner_import/blob/master/docs/output-moodle-course.png) |
+
 To use it, you need to be a teacher in a course.
 The "import LD file" action in under the course settings (cog). 
 

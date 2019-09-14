@@ -25,6 +25,14 @@ Finally, login into your Moodle admin notification page, to finish the install p
 
 Updates will always be available at: https://github.com/nadavkav/moodle-local_learningdesigner_import .
 
+## TODO ##
+
+* Ask the teacher for a different mapping of LD activities to Moodle modules.
+* Update section description instead of adding a description label to each section.
+* Add LD activity type to Moodle module *tags* or *metadata* (for later Analytics and reports) 
+
+## Change log ##
+
 ## Report issues ##
 
 Due to limited resources, the functionality of this plugin is primarily implemented for our own local needs and published as-is to the community. 
